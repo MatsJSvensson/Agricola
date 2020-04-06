@@ -1,0 +1,24 @@
+Efter stable/bake finns stable-knappen kvar 
+
+*DONE* När andra hagen byggs kommer man tillbaka till main, men det går att fortsätta lägga till och ta bort staket och ingen hage skapas
+       Om man bygger hage en gång till på samma ställe så funkar det. Mainknappen blir inte röd
+
+*DONE* Mat-antal uppdateras inte efter harvest
+*Done* Mat-antal uppdateras inte efter starting player
+
+Går att slakta under breedingphase
+
+Use fireplace-knappen är kvar i passivt läge
+
+*DONE* Fel text på bygg rum knappen när man inte har trähus
+
+
+
+Förbättringar
+
+Om man inte har några djur - skippa allocation-fas
+Om man inte bygger några fences - bli inte av med gubbe =)
+Byt färg på djurtext i huset när huset uppgraderas och i hage när man köper stall
+Uppdatera djurknappar när djur slaktas under allocation
+Siffror på fält
+*DONE* Strukturera upp scoring
